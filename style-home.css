@@ -1,7 +1,3 @@
-body {
-	
-}
-
 #banner {
 	width:100%;
 }
@@ -11,8 +7,8 @@ body {
 	padding: 30px;
 }
 
-.titulo-pricipal{
-    padding-left: 20px;
+.titulo-principal {
+	padding-left: 20px;
 }
 
 .titulo-centralizado {
@@ -39,7 +35,6 @@ em strong {
 	background: #FFFFFF;
 	padding: 20px;
 }
-
 
 ul {
 	display: inline-block;
